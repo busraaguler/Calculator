@@ -1,3 +1,4 @@
 # Calculator
 Calculator app
-![Screenshot (8)](https://user-images.githubusercontent.com/45233307/169066285-e5656cba-6d47-4432-b1d1-4c79e24acf31.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/45233307/169073134-49459c35-d554-46ec-a5c9-b37f35592735.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/45233307/169073304-0dffa09d-a746-4400-bad6-aa4b235dd031.png)
